@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad_todoapp_assignment/static/js/main.bf771398.js",
+    "index.html": "/nomad_todoapp_assignment/index.html",
+    "main.bf771398.js.map": "/nomad_todoapp_assignment/static/js/main.bf771398.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bf771398.js"
+  ]
+}
